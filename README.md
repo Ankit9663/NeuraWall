@@ -169,16 +169,6 @@ Tested in **GNS3** with real routing & failures.
 - Intelligence feed ingestion
 - Distributed inference
 
----
-
-## 👨‍💻 Team
-| Name | Role |
-|------|------|
-| Ketan Dav | Lead / Architect |
-| Chinmay Patel | ML / Backend |
-| Ankit Chauhan | Network / IDS |
-| Kavya Desai | UI & Dashboards |
-| Aastha Shah | QA / Research |
 
 ---
 
