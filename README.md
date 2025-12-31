@@ -172,9 +172,8 @@ Tested in **GNS3** with real routing & failures.
 ---
 
 ## 👨‍💻 Team
-| Name | 
-|------|------|
-| Ketan Dav | 
+
+Ketan Dav 
 
 ---
 
